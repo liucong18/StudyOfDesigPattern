@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="StudyOfDesigPattern" target="1.5" />
+      <module name="StudyOfDesigPattern" target="6" />
       <module name="StudyOfDesigPatternTemp" target="1.5" />
     </bytecodeTargetLevel>
   </component>
